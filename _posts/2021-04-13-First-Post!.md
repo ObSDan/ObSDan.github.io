@@ -1,5 +1,3 @@
-# First post!
-
 Created my GitHub repo for this blog, About page and Description are both written, linked to my Twitter. It's now 10:54pm, so just a quick first post to start off the blog.
 
 Finished video 2 of the Fast.ai course and watched the first half of video 3 this evening, then stopped the video when Jeremy talked about creating a blog and showed the tutorial post about how to set all this stuff up. Will resume the rest of the site setup and finish off the third video tomorrow, but so excited now!!
