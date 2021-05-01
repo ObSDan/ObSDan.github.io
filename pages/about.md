@@ -1,5 +1,3 @@
-# About Me
-
 I am Daniel Cleaton, a fairly long-term veteran of the Scottish game development "scene": having worked in game QA at several Dundee and Edinburgh studios a number of years ago; being a mature student graduate of the University of Abertay, Dundee's *Game Production Management* degree; being the founder of the now-defunct ObSkewer Games and having a stab at releasing my own games on *Xbox Creators Club* back in the *XNA* days; and other gamedev-related jaunts along the way. I am currently the QA Manager at YoYo Games, where I have been for the last 10 years-ish.
 
 However, I have only been dabbling in deep learning using Fast.ai for about 18 months - although, there was a whopping gap in the middle of this while I waited for v2 to be released and become mature before restarting/diving in properly to fill up the free evening times that Covid brought to my world. Realistically, since early March 2021, but with a bit of messing about and understanding of the basics before that.
