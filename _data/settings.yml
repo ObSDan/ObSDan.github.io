@@ -22,8 +22,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Please do share!'
+sharing_button_prompt: 'If you enjoyed this post, feel free to share it...'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'You may also enjoy these other posts:'
 
 post_date_prefix: 'Posted: '
