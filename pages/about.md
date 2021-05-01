@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Who Is Daniel Cleaton?"
 categories: facts
 tags: [misc]
