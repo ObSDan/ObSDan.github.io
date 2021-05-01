@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Dan C's AI/ML Blog"
-description:	       "Daniel Cleaton's blog documenting his journey into deep learning/machine learning."
-author:              "Dan"
+title:		    "Dan C's AI/ML Blog"
+description:  "Daniel Cleaton's blog documenting his journey into deep learning/machine learning."
+author:       "Daniel Cleaton"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
