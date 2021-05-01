@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Who Is Daniel Cleaton?"
+categories: facts
+tags: [misc]
+image: DanFacePic.jpg
+---
+
 I am Daniel Cleaton, a fairly long-term veteran of the Scottish game development "scene": having worked in game QA at several Dundee and Edinburgh studios a number of years ago; being a mature student graduate of the University of Abertay, Dundee's *Game Production Management* degree; being the founder of the now-defunct ObSkewer Games and having a stab at releasing my own games on *Xbox Creators Club* back in the *XNA* days; and other gamedev-related jaunts along the way. I am currently the QA Manager at YoYo Games, where I have been for the last 10 years-ish.
 
 However, I have only been dabbling in deep learning using Fast.ai for about 18 months - although, there was a whopping gap in the middle of this while I waited for v2 to be released and become mature before restarting/diving in properly to fill up the free evening times that Covid brought to my world. Realistically, since early March 2021, but with a bit of messing about and understanding of the basics before that.
@@ -11,7 +19,7 @@ I hope you enjoy my content and find at least bits of it educational. Maybe even
 
 I am currently learning how to use the **Fast.ai** framework with **PyTorch** in order to figure out deep learning, play around with some new skills, and generally have some fun along the way.
 
-![Image of fast.ai logo](assets/img/logo.png)
+![Image of fast.ai logo](assets/img/FastAI-logo.png "FastAI Logo")
 
 And I should say just now that it's thanks to Fast.ai that I have created this new GitHub Pages blog today, using [their fantastic guide](https://www.fast.ai/2020/01/16/fast_template/) to taking the same tools I now use for doing my deep learning and making them do double duty as my blog-authoring software also. In this way, I hope to have posts showing the behind-the-scenes detail of the work I am doing and the actual results I am getting at the time.
 
