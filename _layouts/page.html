@@ -2,11 +2,12 @@
 layout: default
 ---
 
-<div class="page-title">
-  <h1>
-    {{ page.title }}
-  </h1>
-</div>
+{% unless page.title == "About" %}
+  <div class="page-title">
+
+      <h1>{{ page.title }}</h1>
+  </div>
+{% endunless %}
 
 <article>
   {{ content }}
