@@ -8,7 +8,7 @@ Instead, I am going to use this blog primarily as a way of documenting my own re
 
 I am currently learning how to use the **Fast.ai** framework with **PyTorch** in order to figure out deep learning, play around with some new skills, and generally have some fun along the way.
 
-![Image of fast.ai logo](assets/img/FastAI-logo.png)
+![Fast.ai logo](assets/img/FastAI-logo.png)
 
 And I should say just now that it's thanks to Fast.ai that I have created this new GitHub Pages blog today, using [their fantastic guide](https://www.fast.ai/2020/01/16/fast_template/) to taking the same tools I now use for doing my deep learning and making them do double duty as my blog-authoring software also. In this way, I hope to have posts showing the behind-the-scenes detail of the work I am doing and the actual results I am getting at the time.
 
