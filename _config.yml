@@ -1,7 +1,7 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            5
+paginate:            10
 
 # Build settings
 markdown:            kramdown
@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Dan C's AI/ML Blog"
+description:	       "Daniel Cleaton's blog documenting his journey into deep learning/machine learning."
+author:              "Dan"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
