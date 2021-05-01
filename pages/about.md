@@ -2,6 +2,7 @@
 layout: page
 categories: facts
 tags: [misc]
+title: About
 ---
 
 ![Dan's face pic](../assets/img/DanFacePic.jpg "Dan's face pic")
