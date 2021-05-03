@@ -1,7 +1,7 @@
 ---
 layout: page
-categories: facts
-tags: [misc]
+categories: Misc
+tags: [Misc]
 title: About
 ---
 
